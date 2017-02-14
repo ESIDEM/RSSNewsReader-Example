@@ -180,23 +180,7 @@ public class MainActivity extends AppCompatActivity implements android.support.v
             }
 
         };
-        // Set behavior of Navigation drawer
-//        navigationView.setNavigationItemSelectedListener(
-//                new NavigationView.OnNavigationItemSelectedListener() {
-//                    // This method will trigger on item Click of navigation menu
-//                    @Override
-//                    public boolean onNavigationItemSelected(MenuItem menuItem) {
-//                        // Set item in checked state
-//                        menuItem.setChecked(true);
-//
-//                        // TODO: handle navigation
-//
-//                        // Closing drawer on item click
-//                        mDrawerLayout.closeDrawers();
-//                        return true;
-//                    }
-//                });
-
+       
 
         //this handle the hamburger animation
       //  mDrawerLayout.addDrawerListener(mDrawerToggle);
